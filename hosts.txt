@@ -1,0 +1,5 @@
+# Formato: nome;host
+Google DNS;8.8.8.8
+YouTube;youtube.com
+Twitch;twitch.com
+OpenDNS;208.67.222.222
